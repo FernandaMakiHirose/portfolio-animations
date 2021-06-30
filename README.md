@@ -4,8 +4,6 @@ Links de estudo: <br>
 - https://www.w3schools.com/css/css3_animations.asp <br>
 - https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp 
 <br>
-Link do site: https://fernandamakihirose.github.io/portfolio-animations/
-
 
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
