@@ -3,6 +3,7 @@ Links de estudo: <br>
 - https://www.w3schools.com/css/css3_transitions.asp <br>
 - https://www.w3schools.com/css/css3_animations.asp <br>
 - https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp <br>
+Link do site: https://fernandamakihirose.github.io/portfolio-animations/
 
 
 ## Sobre a Autora
