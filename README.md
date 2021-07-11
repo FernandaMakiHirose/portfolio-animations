@@ -5,6 +5,9 @@ Links de estudo: <br>
 - https://www.w3schools.com/cssref/css3_pr_animation-keyframes.asp 
 <br>
 
+## Pré-requisitos
+- Utilizar uma IDEA
+
 ## Sobre a Autora
 Oi, eu sou a Fernanda! Estou aqui para contribuir com meu conhecimento e espero poder ajudar no desenvolvimento profissional de cada um de vocês.
 
