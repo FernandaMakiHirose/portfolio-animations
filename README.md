@@ -9,6 +9,6 @@ Nesse projeto você aprenderá os mais importantes tópicos para alavancar no mu
 ## Requisitos
 - IDE.
 - Navegador.
-- 
+
 ## Licença
 Distribuido sob a licença MIT License. Veja `LICENSE` para mais informações.
